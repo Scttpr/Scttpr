@@ -1,7 +1,5 @@
 # Hi there :wave:
 
-https://img.shields.io/endpoint?url=https://scttpr.gitlab.io/blog/&style=for-the-badge&logo=appveyor
-
 ## Description
 - 🔭 I’m currently working on - [Mobility Recorder](https://github.com/Mobility-Recorder)
 - 🌱 I’m currently learning - [Rust](https://www.rust-lang.org/)
