@@ -1,6 +1,5 @@
 # Hi there :wave:
 
-## Description
 - 🔭 I’m currently working on - [Mobility Recorder](https://github.com/Mobility-Recorder)
 - 🌱 I’m currently learning - [Rust](https://www.rust-lang.org/)
 - 💬 Ask me about - Anything ?
