@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-[https://img.shields.io/badge/@scttpr-blog-informational?style=for-the-badge&logo=appveyor](https://scttpr.gitlab.io/blog/)
+https://img.shields.io/endpoint?url=https://scttpr.gitlab.io/blog/&style=for-the-badge&logo=appveyor
 
 ## Description
 - 🔭 I’m currently working on - [Mobility Recorder](https://github.com/Mobility-Recorder)
