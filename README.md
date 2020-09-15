@@ -1,3 +1,14 @@
+# Hi there :wave:
+
+[https://img.shields.io/badge/@scttpr-blog-informational?style=for-the-badge&logo=appveyor](https://scttpr.gitlab.io/blog/)
+
+## Description
+- 🔭 I’m currently working on - [Mobility Recorder](https://github.com/Mobility-Recorder)
+- 🌱 I’m currently learning - [Rust](https://www.rust-lang.org/)
+- 💬 Ask me about - Anything ?
+- 🥅 2020 Goal - Keep going on Rust and Typescript
+- ⚡ Fun fact - I'm actually a raccoon
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Scttpr&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
