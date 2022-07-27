@@ -3,14 +3,13 @@
 ## 💼 Daily working on
 - Javascript and Typescript through VueJS and NodeJS
 - PostgreSQL and MongoDB
-- Gitlab CI/CD, Terraform and Helm
+- Gitlab CI/CD and a bit of devops
 
 ## 🌱 Actively growing on
-- Devops, as I fight with the previous point on a weekly basis
 - Cybersec, thanks to an active training on HTB
+- Devops, as I fight with the previous point on a weekly basis
 
 ## 🔭 Looking forward to have a look at
-- Elm
 - Rust
 - And anything that could be fun!
 
