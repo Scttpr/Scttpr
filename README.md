@@ -1,4 +1,4 @@
-# Hi 2022 :wave:
+# Hi 2023 :wave:
 
 ## 💼 Daily working on
 - Develop with JS ecosystem and a bit of Rust and Python
