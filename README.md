@@ -1,13 +1,14 @@
 # Hi 2022 :wave:
 
 ## 💼 Daily working on
-- Javascript and Typescript through VueJS and NodeJS
-- PostgreSQL and MongoDB
-- Gitlab CI/CD and a bit of devops
+- Develop with JS ecosystem and a bit of Rust and Python
+- Hunt bounties on YesWeHack and practise CTFs on HackTheBox
+- Audit public services to fit cybersecurity french legal requirements
 
 ## 🌱 Actively growing on
-- Cybersec, thanks to an active training on HTB
-- Rust
+- Active Directory
+- Red teaming
+- And everything about IT
 
 ## 🔭 Looking forward to have a look at
 - Anything that could be fun!
