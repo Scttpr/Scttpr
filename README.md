@@ -13,3 +13,4 @@
 
 ## 🔭 Looking forward to have a look at
 - Malware dev in C# and Rust
+- Rebuild a full IaC homelab
