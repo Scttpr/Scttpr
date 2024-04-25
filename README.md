@@ -9,4 +9,4 @@
 
 ## 🔭 Looking forward to have a look at
 - Malware dev in C#
-- AD && Powershell
+- AD & Powershell
