@@ -1,4 +1,4 @@
-# Hi 2023 :wave:
+# Hi 2024 :wave:
 
 ## 💼 Daily working on
 - Rebuild a full IaC homelab
